@@ -148,31 +148,32 @@ assets/
 images/
 videos/
 requirements.txt
+```
 
-🚀 Installation & Execution
+## 🚀 Installation & Execution
 git clone git@github.com:sayalivanjare/swasthya-smart-yoga-mat.git
 cd swasthya-smart-yoga-mat
 pip install -r requirements.txt
 streamlit run app.py
 
- 📊 Results Summary
+## 📊 Results Summary
 Real-time yoga posture detection successfully implemented
 Machine learning model shows stable classification performance
 Sensor fusion improves accuracy and reliability
 Confusion matrix validates prediction correctness
 System operates with acceptable real-time latency
 
-🚧 Limitations
+## 🚧 Limitations
 Requires proper lighting for accurate camera detection
 Sensor calibration may vary across hardware setups
 Model accuracy depends on dataset quality and diversity
 
-🔮 Future Scope
+## 🔮 Future Scope
 Deep learning-based pose estimation enhancement
 Mobile application integration
 Cloud-based user progress tracking system
 Wearable IoT integration
 AI-based personalized yoga trainer system
 
-📌 Conclusion
+## 📌 Conclusion
 The Swasthya Smart Yoga Mat successfully demonstrates integration of AI, Computer Vision, and IoT technologies for real-time yoga posture analysis. The system provides meaningful corrective feedback and performance tracking, making it suitable for fitness improvement and rehabilitation applications.
