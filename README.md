@@ -82,12 +82,12 @@ Swasthya Smart Yoga Mat is a hybrid intelligent system integrating **Computer Vi
 ---
 
 ## 📈 Accuracy per User  
-![Accuracy per User](https://github.com/user-attachments/assets/1eb7ff25-88e9-4f2d-8849-cab895644d7a)
+![Accuracy per User](https://github.com/user-attachments/assets/c7bfb1d4-182b-43ad-ad0c-5de96f7acbbd)
 
 ---
 
 ## 📉 Latency vs Frequency Graph  
-![Latency vs Frequency](https://github.com/user-attachments/assets/c7bfb1d4-182b-43ad-ad0c-5de96f7acbbd)
+![Latency vs Frequency](https://github.com/user-attachments/assets/1eb7ff25-88e9-4f2d-8849-cab895644d7a)
 
 
 ---
@@ -119,7 +119,7 @@ Swasthya Smart Yoga Mat is a hybrid intelligent system integrating **Computer Vi
 
 👉 Live/Hosted Video Link:
 
-https://your-demo-video-link.com
+https://docs.google.com/presentation/d/1LWr-yqeZOz2N2weASBg10VoE_lGBaX4D5i7zhkgChc8/edit?usp=sharing
 
 ---
 
