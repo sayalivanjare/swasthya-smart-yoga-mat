@@ -57,13 +57,11 @@ Swasthya Smart Yoga Mat is a hybrid intelligent system integrating **Computer Vi
 
 
 ## 🧱 Block Diagram  
-![Block Diagram](<img width="764" height="424" alt="Image" src="https://github.com/user-attachments/assets/f36e10c3-7544-41d0-b558-d3473251f744" />
-)
-
+![Block Diagram](https://github.com/user-attachments/assets/f36e10c3-7544-41d0-b558-d3473251f744)
 ---
 
 ## 🔄 Data Flow Diagram (DFD)  
-![Data Flow Diagram](<img width="674" height="363" alt="Image" src="https://github.com/user-attachments/assets/afb36738-c01d-486f-b66e-6764ee8b21f7" />)
+![Data Flow Diagram](https://github.com/user-attachments/assets/afb36738-c01d-486f-b66e-6764ee8b21f7)
 
 ---
 
@@ -79,18 +77,18 @@ Swasthya Smart Yoga Mat is a hybrid intelligent system integrating **Computer Vi
 # 📊 Performance Evaluation
 
 ## 📌 Confusion Matrix  
-![Confusion Matrix](<img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/45e18836-7c1b-49f0-ab96-426e143c2cd0" />)
+![Confusion Matrix](https://github.com/user-attachments/assets/45e18836-7c1b-49f0-ab96-426e143c2cd0)
 
 ---
 
 ## 📈 Accuracy per User  
-![Accuracy per User](<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/1eb7ff25-88e9-4f2d-8849-cab895644d7a" />)
+![Accuracy per User](https://github.com/user-attachments/assets/1eb7ff25-88e9-4f2d-8849-cab895644d7a)
 
 ---
 
 ## 📉 Latency vs Frequency Graph  
-![Latency vs Frequency](<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/c7bfb1d4-182b-43ad-ad0c-5de96f7acbbd" />
-)
+![Latency vs Frequency](https://github.com/user-attachments/assets/c7bfb1d4-182b-43ad-ad0c-5de96f7acbbd)
+
 
 ---
 
