@@ -99,7 +99,7 @@ Swasthya Smart Yoga Mat is a hybrid intelligent system integrating **Computer Vi
 # 🖥️ System Screenshots
 
 ## 🔐 Login Page  
-![Login Page](assets/Loginpage.png)
+![Login Page](assets/LoginPage.png)
 
 ---
 
