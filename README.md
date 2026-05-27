@@ -1,15 +1,15 @@
-# 📘 Swasthya Smart Yoga Mat  
+# Swasthya Smart Yoga Mat  
 ### Final Year BE Project  
 
 ---
 
-## 🏫 Department  
+##  Department  
 Department of Computer Engineering  
 ABMS Anantrao College of Engineering and Research, Pune  
 
 ---
 
-## 👨‍🎓 Project Group Members
+##  Project Group Members
 
 - Sayali Milind Vanjare  
 - Abhidnya Santosh Nighot  
@@ -18,7 +18,7 @@ ABMS Anantrao College of Engineering and Research, Pune
 
 ---
 
-## 👨‍🏫 Project Guide
+##  Project Guide
 
 **Dr. Jitendra Musale**
 
@@ -99,12 +99,12 @@ Swasthya Smart Yoga Mat is a hybrid intelligent system integrating **Computer Vi
 # 🖥️ System Screenshots
 
 ## 🔐 Login Page  
-![Login Page](images/login.png)
+![Login Page](assets/login.png))
 
 ---
 
 ## 📝 Registration Page  
-![Registration Page](images/registration.png)
+![Registration Page](images/registration_page.png)
 
 ---
 
@@ -114,7 +114,7 @@ Swasthya Smart Yoga Mat is a hybrid intelligent system integrating **Computer Vi
 ---
 
 ## 📊 Session Dashboard  
-![Session Dashboard](images/session_dashboard.png)
+![Session Dashboard](images/session_page.png)
 
 ---
 
